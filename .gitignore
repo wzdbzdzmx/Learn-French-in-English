@@ -1,0 +1,12 @@
+node_modules/
+work/
+*.tsbuildinfo
+.vite/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+backups/
+*.log
+.env
+.env.*
+!.env.example
